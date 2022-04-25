@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidLesson1</string>
+    <string name="user_registration">Регистрация пользователя</string>
+    <string name="user_name">Введите ваше имя</string>
+    <string name="user_email">Введите адрес вашей эл.почты</string>
+    <string name="user_password">Придумайте пароль</string>
+    <string name="user_password_confirm">Подтвердите пароль</string>
+    <string name="text_button_registration">Зарегистрироваться</string>
+    <string name="text_switch_mailing">Подписаться на рассылку</string>
+    <string name="text_check_box_robot">Я не робот</string>
+    <string name="text_toggle_button_cancel">Отмена</string>
+    <string name="text_name">text</string>
+</resources>
